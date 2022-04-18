@@ -1,0 +1,9 @@
+.table {
+  display: flex;
+  text-align: left;
+  padding: 0.2rem;
+}
+
+.table td {
+  padding: 0.1rem;
+}
